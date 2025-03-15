@@ -1,5 +1,5 @@
 # Financial-Dashboard-using-PowerBI
-**Finance Dataset **
+Finance Dataset
 **Dataset Name**: Finance Dataset
 **File Format**: Excel (.xlsx)
 **Sheet Name**: FinData

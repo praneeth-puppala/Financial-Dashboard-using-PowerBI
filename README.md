@@ -1,5 +1,4 @@
 # Financial-Dashboard-using-PowerBI
-Finance Dataset
 
 **Dataset Name**: Finance Dataset
 
